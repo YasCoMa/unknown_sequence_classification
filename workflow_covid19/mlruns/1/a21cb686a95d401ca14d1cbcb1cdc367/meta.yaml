@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/085dd464-7946-4395-acfd-e22026d52e9d/home/yasmmin/Dropbox/phd/portfolio/unknown_classification/workflow_covid19/mlruns/1/a21cb686a95d401ca14d1cbcb1cdc367/artifacts
+end_time: 1649205332805
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: a21cb686a95d401ca14d1cbcb1cdc367
+run_uuid: a21cb686a95d401ca14d1cbcb1cdc367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649205332471
+status: 4
+tags: []
+user_id: yasmmin

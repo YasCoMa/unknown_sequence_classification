@@ -1,0 +1,42 @@
+[I 2022-04-08 23:37:23.143 LabApp] JupyterLab extension loaded from /mnt/085dd464-7946-4395-acfd-e22026d52e9d/home/yasmmin/anaconda3/envs/unknown_classification/lib/python3.6/site-packages/jupyterlab
+[I 2022-04-08 23:37:23.143 LabApp] JupyterLab application directory is /mnt/085dd464-7946-4395-acfd-e22026d52e9d/home/yasmmin/anaconda3/envs/unknown_classification/share/jupyter/lab
+[I 23:37:23.147 NotebookApp] Serving notebooks from local directory: /mnt/085dd464-7946-4395-acfd-e22026d52e9d/home/yasmmin/Dropbox/phd/portfolio/unknown_classification/workflow_covid19
+[I 23:37:23.147 NotebookApp] Jupyter Notebook 6.4.10 is running at:
+[I 23:37:23.147 NotebookApp] http://localhost:8888/?token=6dd993b6d9548ae578446c5d573d5cc62ac688a1dfbc014f
+[I 23:37:23.147 NotebookApp]  or http://127.0.0.1:8888/?token=6dd993b6d9548ae578446c5d573d5cc62ac688a1dfbc014f
+[I 23:37:23.147 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 23:37:23.176 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/yasmmin/.local/share/jupyter/runtime/nbserver-714553-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=6dd993b6d9548ae578446c5d573d5cc62ac688a1dfbc014f
+     or http://127.0.0.1:8888/?token=6dd993b6d9548ae578446c5d573d5cc62ac688a1dfbc014f
+23:37:23.637 › Checking for update
+23:37:23.917 › Error: Error: ENOENT: no such file or directory, open '/usr/lib/notion-desktop/resources/app-update.yml'
+23:37:23.918 › {
+  level: 'error',
+  from: 'autoUpdater',
+  type: 'unknownAutoUpdaterError',
+  error: [Error: ENOENT: no such file or directory, open '/usr/lib/notion-desktop/resources/app-update.yml'] {
+    errno: -2,
+    code: 'ENOENT',
+    syscall: 'open',
+    path: '/usr/lib/notion-desktop/resources/app-update.yml'
+  }
+}
+/usr/lib/notion-desktop/notion-desktop /home/yasmmin/.local/share/jupyter/runtime/n[714584]: ../../third_party/electron_node/src/node_platform.cc:444:std::shared_ptr<PerIsolatePlatformData> node::NodePlatform::ForIsolate(v8::Isolate *): Assertion `data' failed.
+Failed to get crash dump id.
+Report Id: 
+[W 23:37:25.606 NotebookApp] 404 DELETE /api/sessions/28eba8c5-e1b1-408e-9857-22db32732133 (127.0.0.1): Session not found: session_id='28eba8c5-e1b1-408e-9857-22db32732133'
+[W 23:37:25.607 NotebookApp] Session not found: session_id='28eba8c5-e1b1-408e-9857-22db32732133'
+[W 23:37:25.608 NotebookApp] 404 DELETE /api/sessions/28eba8c5-e1b1-408e-9857-22db32732133 (127.0.0.1) 39.170000ms referer=http://localhost:8888/notebooks/UnknownClassificationReport.ipynb
+[I 23:37:25.861 NotebookApp] Kernel started: 797421a8-fda8-4c42-a61a-777b921bbb4b, name: python3
+[W 23:37:36.798 NotebookApp] 404 GET /api/contents/UnknownClassificationReport.ipynb?content=0&_=1649471495856 (127.0.0.1): No such file or directory: UnknownClassificationReport.ipynb
+[W 23:37:36.798 NotebookApp] No such file or directory: UnknownClassificationReport.ipynb
+[W 23:37:36.798 NotebookApp] 404 GET /api/contents/UnknownClassificationReport.ipynb?content=0&_=1649471495856 (127.0.0.1) 1.410000ms referer=http://localhost:8888/notebooks/UnknownClassificationReport.ipynb
+[I 23:37:36.885 NotebookApp] Uploading file to /UnknownClassificationReport.ipynb
+[C 23:38:31.156 NotebookApp] received signal 15, stopping
+[I 23:38:31.157 NotebookApp] Shutting down 1 kernel
+[I 23:38:31.559 NotebookApp] Kernel shutdown: 797421a8-fda8-4c42-a61a-777b921bbb4b
+[I 23:38:31.560 NotebookApp] Shutting down 0 terminals
