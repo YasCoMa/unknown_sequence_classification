@@ -6,6 +6,8 @@ This project aims at find patterns in the Spike protein sequences of the SARS-Co
 ![workflow](img/workflow.png)
 
 ## Installing
+- Go to the workflow folder: ```cd workflow_covid19```
+
 ### Using a conda environment
 - Edit the yml environment file with the directory for your conda
 - Create conda environment: ```conda env create -f unknown_classification.yml```
