@@ -1,4 +1,4 @@
-# unknown_sequence_classification
+# Unknown Sequence Classification Project
 
 ## Overview
 
